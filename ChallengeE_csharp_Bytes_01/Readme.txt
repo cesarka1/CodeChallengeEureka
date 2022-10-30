@@ -1,6 +1,6 @@
 ### Desafio Técnico com Byte
 
-Task 01 - Quantidade de Valores do Tipo Byte
+##Task 01 - Quantidade de Valores do Tipo Byte
 
 Considere os valores [10, 300, "bbb", 20,30, "--", "/", 50, 1000]  passado em tempo real pelo usuário. Ao finalizar o programa ele retorna:
 a quantidade de valores que são do tipo byte.
