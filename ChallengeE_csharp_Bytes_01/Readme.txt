@@ -20,7 +20,7 @@ Teste [03]
 Para verificação de sua solução implemente a solução no método getQuantidadeBytes e uso o projeto de Teste para verificar sua resposta.
 
 
-Task 02 - Quantidade de Valores com Formato incompatíveis com Bytes
+##Task 02 - Quantidade de Valores com Formato incompatíveis com Bytes
 
 Considere os valores [10, 300, "bbb", 20,30, "--", "/", 50, 1000]  passado em tempo real pelo usuário. Ao finalizar o programa ele retorna:
 a quantidade de valores que não são compatíveis com o byte (Fora de formato).
@@ -40,7 +40,7 @@ Para verificação de sua solução implemente a solução no método getQuantid
 
 
 
-Task 03 - Quantidade de Valores com Formato incompatíveis com Bytes
+##Task 03 - Quantidade de Valores com Formato incompatíveis com Bytes
 
 Considere os valores [10, 300, "bbb", 20,30, "--", "/", 50, 1000]  passado em tempo real pelo usuário. Ao finalizar o programa ele retorna:
 a quantidade de valores que não são compativeis com o byte (Fora de formato).
