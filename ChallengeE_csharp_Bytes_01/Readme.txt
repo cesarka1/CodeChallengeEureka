@@ -17,7 +17,7 @@ Teste [03]
   Entrada: [1,2,3,4,5,6]
   Saída: 6
 
-Para verificação de sua solução implemente a solução no método getQuantidadeBytes e uso o projeto de Teste para verificar sua resposta.
+Para verificação de sua solução implemente a solução no método getQuantidade e uso o projeto de Teste para verificar sua resposta.
 
 
 ##Task 02 - Quantidade de Valores com Formato incompatíveis com Bytes
@@ -36,7 +36,7 @@ Teste [03]
   Entrada: [1,2,3,4,5,6]
   Saída: 0
 
-Para verificação de sua solução implemente a solução no método getQuantidadeBytes e uso o projeto de Teste para verificar sua resposta.
+Para verificação de sua solução implemente a solução no método getQuantidadeFormato e uso o projeto de Teste para verificar sua resposta.
 
 
 
@@ -56,4 +56,4 @@ Teste [03]
   Entrada: [1,2,3,4,5,6]
   Saída: 0
 
-Para verificação de sua solução implemente a solução no método getQuantidadeFormatoByte e uso o projeto de Teste para verificar sua resposta.
+Para verificação de sua solução implemente a solução no método getQuantidadeForaDaFaixa e uso o projeto de Teste para verificar sua resposta.
