@@ -40,7 +40,7 @@ Para verificação de sua solução implemente a solução no método getQuantid
 
 
 
-##Task 03 - Quantidade de Valores com Formato incompatíveis com Bytes
+##Task 03 - Quantidade de Valores com Fora da Faixa de Bytes
 
 Considere os valores [10, 300, "bbb", 20,30, "--", "/", 50, 1000]  passado em tempo real pelo usuário. Ao finalizar o programa ele retorna:
 a quantidade de valores que não são compativeis com o byte (Fora de formato).
@@ -48,10 +48,10 @@ a quantidade de valores que não são compativeis com o byte (Fora de formato).
 Cenários de Testes de Exemplos
 Teste [01]
   Entrada: [10, 300, "bbb", 20,30, "--", "/", 50, 1000] 
-  Saída: 3
+  Saída: 2
 Teste [02]
   Entrada: ["reg", ">", 299]
-  Saída: 2
+  Saída: 1
 Teste [03]
   Entrada: [1,2,3,4,5,6]
   Saída: 0
